@@ -1,3 +1,4 @@
+
 var FLAG = "3";
 var SIZE = "10";
 var PAGENUMBER = "1";
@@ -136,7 +137,7 @@ $(document).ready(function () {
             success: function (msg) {
                 if (msg == "success") {
                     alert("删除成功");
-                    window.location.href = "http://eigqa.58corp.com/caseplatform/project";
+                    window.location.href = "";
                 }
             }
         });
