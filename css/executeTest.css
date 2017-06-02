@@ -1,0 +1,9 @@
+*{ margin:0px; border:0px; padding:0px}
+
+#myform input{ width:100px; height:27px; margin-left:2%; color:white;background:#2773C0; text-align:center;font-size:18px; border-radius:5px;}
+#saveDiv span{ font-size:14px;}
+.saveContent{ width:270px;height:25px;border:1px solid #CCC;}
+#savebtn{ width:80px; height:20px; margin-top:10px; margin-left:20px;}
+.saveText{ margin:10px auto;}
+.shareDiv { font-size: 12px;width: 270px;line-height:25px;border: 1px solid #c5c6c7;border-bottom-color: #e8e9eb;border-right-color: #e8e9eb;padding-left: 5px;text-align: left;}
+#shareName{ width:95px; height:25px;}
